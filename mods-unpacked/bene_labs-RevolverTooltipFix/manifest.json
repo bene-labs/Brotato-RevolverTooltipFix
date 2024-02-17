@@ -3,7 +3,7 @@
 	"namespace": "bene_labs",
 	"version_number": "1.0.0",
 	"description": "Shows the correct extra cooldown values for the revolver, fixing a bug from the base game.",
-	"website_url": "",
+	"website_url": "https://github.com/bene-labs/Brotato-RevolverTooltipFix",
 	"dependencies": [],
 	"extra": {
 		"godot": {
