@@ -1,0 +1,17 @@
+{
+	"name": "RevolverTooltipFix",
+	"namespace": "bene_labs",
+	"version_number": "1.0.0",
+	"description": "Shows the correct extra cooldown values for the revolver, fixing a bug from the base game.",
+	"website_url": "",
+	"dependencies": [],
+	"extra": {
+		"godot": {
+			"incompatibilities": [],
+			"authors": [ "bene_labs" ],
+			"compatible_mod_loader_version": [ "6.0.0" ],
+			"compatible_game_version": [ "1.0.0.3" ],
+			"config_defaults": {}
+		}
+	}
+}
